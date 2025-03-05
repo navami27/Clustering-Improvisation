@@ -20,7 +20,7 @@ An improved version of the traditional **K-Means Clustering** algorithm using **
 1️⃣ **Clone the repository**  
 ```bash
 git clone https://github.com/navami27/Clustering-Improvisation.git
-cd kplusplus-clustering
+
 ```  
 2️⃣ **Install dependencies**  
 ```bash
@@ -28,7 +28,7 @@ pip install numpy matplotlib scikit-learn pandas
 ```  
 3️⃣ **Run the algorithm**  
 ```bash
-python kmeans.py
+python optimized_k_means.py
 ```  
 
 ## **How It Works** 🎬
